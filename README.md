@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Karide Gnaneshwar  
-🚀 **Aspiring Java Developer | Problem Solver | Open Source Enthusiast**
+  **Aspiring Java Developer | Problem Solver | Open Source Enthusiast**
 
 </div>
 
@@ -52,8 +52,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KARIDEGNANESHWAR&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KARIDEGNANESHWAR&theme=tokyonight" alt="GitHub Streak"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARIDEGNANESHWAR&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
